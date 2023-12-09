@@ -1,0 +1,23 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "git main child ",
+    "dateExported": "2023-12-09T18:42:34.094Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "18d759f5-9d10-48fb-b135-c4138e79f589",
+            "colId": "e700fc6c-73db-4737-948a-3ae840416def",
+            "containerId": "",
+            "name": "git main",
+            "url": "localhost:8000/api/get-main-child",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2023-12-09T18:22:33.231Z",
+            "modified": "2023-12-09T18:24:43.926Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
